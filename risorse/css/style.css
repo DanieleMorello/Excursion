@@ -26,6 +26,10 @@ h3 {
     color: grey;
 }
 
+#phone {
+    margin-top: 20px;
+}
+
 footer {
     color: grey;
     text-align: right;
